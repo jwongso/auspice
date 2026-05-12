@@ -50,10 +50,18 @@ function handleMonth(params) {
   return json(result);
 }
 
+function isWeekend(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const dow = new Date(y, m - 1, d).getDay();
+  return dow === 0 || dow === 6;
+}
+
 function handleBest(params) {
-  const activity = params.get('activity');
-  const from     = params.get('from');
-  const to       = params.get('to');
+  const activity      = params.get('activity');
+  const from          = params.get('from');
+  const to            = params.get('to');
+  const weekendParam  = params.get('weekend');
+  const excludeWeekend = weekendParam === 'false';
 
   if (!activity || !from || !to)
     return json({ error: 'activity, from, and to params required' }, 400);
@@ -73,6 +81,7 @@ function handleBest(params) {
   for (const [date, entry] of Object.entries(CALENDAR)) {
     if (date < from || date > to) continue;
     if (entry.type === 'unlucky') continue;
+    if (excludeWeekend && isWeekend(date)) continue;
     const matched = targets.filter(t => entry.favourable.includes(t));
     if (!matched.length) continue;
     results.push({ date, type: entry.type, matched });
@@ -83,7 +92,7 @@ function handleBest(params) {
     return a.type === 'lucky' ? -1 : 1;
   });
 
-  return json({ activity, from, to, count: results.length, days: results });
+  return json({ activity, from, to, weekend: !excludeWeekend, count: results.length, days: results });
 }
 
 function handleToday() {
@@ -115,7 +124,8 @@ export default {
             '/today':                        'Todays fengshui day',
             '/day?date=YYYY-MM-DD':          'Single day lookup',
             '/month?year=YYYY&month=M':      'Full month',
-            '/best?activity=X&from=Y&to=Z':  'Best days for an activity in a date range',
+            '/best?activity=X&from=Y&to=Z':              'Best days for an activity in a date range',
+            '/best?activity=X&from=Y&to=Z&weekend=false': 'Same, excluding Saturdays and Sundays',
           },
           activities: Object.keys(ACTIVITY_MAP),
         });

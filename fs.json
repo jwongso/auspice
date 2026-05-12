@@ -1,0 +1,3387 @@
+{
+  "2026-05-01": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-02": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-03": {
+    "favourable": [
+      "Worship",
+      "Travelling",
+      "Engagement",
+      "Wedding",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Fishing",
+      "Stove Set-up"
+    ]
+  },
+  "2026-05-04": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-05": {
+    "favourable": [
+      "Worship",
+      "Blessing",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Trading",
+      "Construction",
+      "Ditching",
+      "Burial"
+    ]
+  },
+  "2026-05-06": {
+    "favourable": [
+      "Worship",
+      "Travelling",
+      "Signing Contracts",
+      "Trading",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Acupuncture",
+      "Net Weaving",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-05-07": {
+    "favourable": [
+      "Blessing",
+      "Tailoring",
+      "Engagement",
+      "Wedding",
+      "Moving",
+      "Animal Acquiring"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hunting",
+      "Travelling",
+      "Construction",
+      "Wood Cutting"
+    ]
+  },
+  "2026-05-08": {
+    "favourable": [
+      "Worship",
+      "Blessing",
+      "Hair Cutting",
+      "House Cleaning",
+      "Grand Opening",
+      "Travelling",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching"
+    ]
+  },
+  "2026-05-09": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Construction",
+      "Lawsuit",
+      "Moving",
+      "Funeral",
+      "Burial"
+    ]
+  },
+  "2026-05-10": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Passage Fixing"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Construction",
+      "Bed Set-up",
+      "Travelling",
+      "Fishing"
+    ]
+  },
+  "2026-05-11": {
+    "favourable": [
+      "Travelling",
+      "Moving",
+      "Wedding",
+      "Grand Opening",
+      "Signing Contracts",
+      "Trading",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Social Gathering",
+      "Lawsuit",
+      "Fishing",
+      "Planting"
+    ]
+  },
+  "2026-05-12": {
+    "favourable": [
+      "Worship",
+      "Hair Cutting",
+      "Social Gathering",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Moving",
+      "Stove Set-up",
+      "Planting",
+      "Burial"
+    ]
+  },
+  "2026-05-13": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-14": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-15": {
+    "favourable": [
+      "Engagement",
+      "Start Learning",
+      "Travelling",
+      "Animal Acquiring",
+      "Grand Opening",
+      "Trading",
+      "Planting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Lawsuit",
+      "Hunting",
+      "Moving",
+      "Fishing"
+    ]
+  },
+  "2026-05-16": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Moving",
+      "Travelling",
+      "Trading",
+      "Signing Contracts",
+      "Animal Acquiring",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Hunting",
+      "Construction",
+      "Fishing"
+    ]
+  },
+  "2026-05-17": {
+    "favourable": [
+      "Worship",
+      "Start Learning",
+      "Grand Opening",
+      "Trading",
+      "Construction",
+      "Planting",
+      "Wedding",
+      "Travelling"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wood Cutting",
+      "Wine Distillation",
+      "Fishing"
+    ]
+  },
+  "2026-05-18": {
+    "favourable": [
+      "Net Weaving",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Ditching",
+      "Door Fixing",
+      "Bed Set-up",
+      "Construction",
+      "Travelling"
+    ]
+  },
+  "2026-05-19": {
+    "favourable": [
+      "Social Gathering",
+      "Tailoring"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Lawsuit",
+      "Travelling",
+      "Construction",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-05-20": {
+    "favourable": [
+      "Blessing",
+      "House Cleaning",
+      "Engagement",
+      "Wedding",
+      "Travelling",
+      "Moving",
+      "Animal Acquiring",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Loan Arrangement",
+      "Hunting",
+      "Fishing"
+    ]
+  },
+  "2026-05-21": {
+    "favourable": [
+      "Worship",
+      "House Cleaning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Fishing",
+      "Travelling",
+      "Moving",
+      "Construction",
+      "Planting"
+    ]
+  },
+  "2026-05-22": {
+    "favourable": [
+      "Travelling",
+      "Moving",
+      "Grand Opening",
+      "Signing Contracts",
+      "Engagement",
+      "Wedding",
+      "Door Fixing",
+      "Construction"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Stove Set-up",
+      "Bed Set-up",
+      "Hunting"
+    ]
+  },
+  "2026-05-23": {
+    "favourable": [
+      "Wedding",
+      "Travelling",
+      "Construction",
+      "Moving",
+      "Signing Contracts",
+      "Trading",
+      "Grand Opening",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Social Gathering",
+      "Nursery Set-up",
+      "Planting"
+    ]
+  },
+  "2026-05-24": {
+    "favourable": [
+      "Blessing",
+      "Hair Cutting",
+      "Moving",
+      "Wedding",
+      "Planting",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Signing Contracts",
+      "Trading"
+    ]
+  },
+  "2026-05-25": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-26": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-05-27": {
+    "favourable": [
+      "Wedding",
+      "Grand Opening",
+      "Trading",
+      "Start Learning",
+      "Construction",
+      "Travelling",
+      "Planting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Stove Set-up",
+      "Wine Distillation",
+      "Hunting",
+      "Fishing"
+    ]
+  },
+  "2026-05-28": {
+    "favourable": [
+      "Net Weaving",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Worship",
+      "Ditching",
+      "Signing Contracts",
+      "Grand Opening",
+      "Bed Set-up",
+      "Burial"
+    ]
+  },
+  "2026-05-29": {
+    "favourable": [
+      "Worship",
+      "Start Learning",
+      "Social Gathering",
+      "Stove Set-up"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Wood Cutting",
+      "Lawsuit",
+      "Wine Distillation"
+    ]
+  },
+  "2026-05-30": {
+    "favourable": [
+      "Tailoring",
+      "Stove Set-up",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Construction",
+      "Travelling",
+      "Acupuncture",
+      "Hunting"
+    ]
+  },
+  "2026-05-31": {
+    "favourable": [
+      "Blessing",
+      "Engagement",
+      "Wedding",
+      "Social Gathering",
+      "Tailoring",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Construction",
+      "Wood Cutting"
+    ]
+  },
+  "2026-06-01": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Social Gathering"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Trading",
+      "Stove Set-up",
+      "Burial"
+    ]
+  },
+  "2026-06-02": {
+    "favourable": [
+      "Worship",
+      "House Cleaning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Hair Cutting",
+      "Construction",
+      "Bed Set-up",
+      "Moving",
+      "Funeral"
+    ]
+  },
+  "2026-06-03": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Acupuncture",
+      "Bed Set-up",
+      "Nursery Set-up"
+    ]
+  },
+  "2026-06-04": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Trading",
+      "Travelling",
+      "Moving",
+      "Animal Acquiring",
+      "Planting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Social Gathering",
+      "Construction",
+      "Ditching"
+    ]
+  },
+  "2026-06-05": {
+    "favourable": [
+      "Blessing",
+      "Wedding",
+      "Hair Cutting",
+      "Planting",
+      "Engagement",
+      "Moving",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Stove Set-up",
+      "Net Weaving",
+      "Travelling"
+    ]
+  },
+  "2026-06-06": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "Social Gathering",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Trading",
+      "Signing Contracts",
+      "Hunting",
+      "Grand Opening",
+      "Wine Distillation"
+    ]
+  },
+  "2026-06-07": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-06-08": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Wedding",
+      "Travelling",
+      "Construction",
+      "Bed Set-up",
+      "Stove Set-up"
+    ]
+  },
+  "2026-06-09": {
+    "favourable": [
+      "Signing Contracts",
+      "Trading",
+      "Start Learning",
+      "Grand Opening",
+      "Animal Acquiring",
+      "Construction",
+      "Wine Distillation"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Wedding",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-06-10": {
+    "favourable": [
+      "Worship",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Moving",
+      "Travelling",
+      "Ditching",
+      "Bed Set-up",
+      "Planting"
+    ]
+  },
+  "2026-06-11": {
+    "favourable": [
+      "Travelling",
+      "Moving",
+      "Engagement",
+      "Wedding",
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Stove Set-up",
+      "Wood Cutting"
+    ]
+  },
+  "2026-06-12": {
+    "favourable": [
+      "Tailoring",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Hair Cutting",
+      "Travelling",
+      "Planting",
+      "Wine Distillation"
+    ]
+  },
+  "2026-06-13": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Grand Opening",
+      "Travelling",
+      "Construction",
+      "Buying Properties"
+    ]
+  },
+  "2026-06-14": {
+    "favourable": [
+      "Signing Contracts",
+      "Trading",
+      "House Cleaning",
+      "Planting",
+      "Moving",
+      "Travelling",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Tailoring",
+      "Funeral"
+    ]
+  },
+  "2026-06-15": {
+    "favourable": [
+      "Blessing",
+      "Hair Cutting",
+      "Construction",
+      "Travelling",
+      "Moving",
+      "Tailoring",
+      "Grand Opening",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Bed Set-up",
+      "Net Weaving"
+    ]
+  },
+  "2026-06-16": {
+    "favourable": [
+      "Hair Cutting",
+      "House Cleaning",
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Nursery Set-up",
+      "Ditching",
+      "Hunting",
+      "Wine Distillation"
+    ]
+  },
+  "2026-06-17": {
+    "favourable": [
+      "Blessing",
+      "Wedding",
+      "Trading",
+      "Signing Contracts",
+      "Tailoring",
+      "Wine Distillation"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Construction",
+      "Ditching",
+      "Passage Fixing",
+      "Wall Decorating"
+    ]
+  },
+  "2026-06-18": {
+    "favourable": [
+      "Worship",
+      "Bathing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Travelling",
+      "Wedding",
+      "Lawsuit",
+      "Trading",
+      "Moving"
+    ]
+  },
+  "2026-06-19": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-06-20": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-06-21": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Trading",
+      "Start Learning",
+      "Moving",
+      "Travelling",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Stove Set-up",
+      "Fishing",
+      "Hunting"
+    ]
+  },
+  "2026-06-22": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Hair Cutting",
+      "Wedding",
+      "Bed Set-up",
+      "Acupuncture",
+      "Travelling",
+      "Construction"
+    ]
+  },
+  "2026-06-23": {
+    "favourable": [
+      "Social Gathering",
+      "Nursery Set-up",
+      "Engagement",
+      "Tailoring",
+      "Start Learning",
+      "Moving",
+      "Planting",
+      "Travelling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Fishing",
+      "Wood Cutting",
+      "Buying Properties"
+    ]
+  },
+  "2026-06-24": {
+    "favourable": [
+      "Worship",
+      "Tailoring",
+      "Planting",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Social Gathering",
+      "Acupuncture",
+      "Travelling"
+    ]
+  },
+  "2026-06-25": {
+    "favourable": [
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Engagement",
+      "Moving",
+      "Construction",
+      "Net Weaving"
+    ]
+  },
+  "2026-06-26": {
+    "favourable": [
+      "Social Gathering",
+      "Wedding",
+      "Grand Opening",
+      "Travelling",
+      "Trading",
+      "Moving",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Wine Distillation"
+    ]
+  },
+  "2026-06-27": {
+    "favourable": [
+      "Hair Cutting",
+      "Grand Opening",
+      "Moving",
+      "Travelling",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Trading",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-06-28": {
+    "favourable": [
+      "Hair Cutting",
+      "House Cleaning",
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Lawsuit",
+      "Grand Opening",
+      "Construction",
+      "Travelling"
+    ]
+  },
+  "2026-06-29": {
+    "favourable": [
+      "Blessing",
+      "Social Gathering",
+      "Wedding",
+      "Signing Contracts",
+      "Grand Opening",
+      "Trading",
+      "Construction",
+      "Wine Distillation"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Planting",
+      "Nursery Set-up",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-06-30": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-01": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-02": {
+    "favourable": [
+      "Worship",
+      "Trading",
+      "Bed Set-up",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Hair Cutting",
+      "Planting",
+      "Funeral",
+      "Burial"
+    ]
+  },
+  "2026-07-03": {
+    "favourable": [
+      "Wedding",
+      "Grand Opening",
+      "Travelling",
+      "Start Learning",
+      "Signing Contracts",
+      "Trading",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Moving",
+      "Buying Properties"
+    ]
+  },
+  "2026-07-04": {
+    "favourable": [
+      "Worship",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Trading",
+      "Grand Opening",
+      "Travelling",
+      "Construction",
+      "Ditching"
+    ]
+  },
+  "2026-07-05": {
+    "favourable": [
+      "Blessing",
+      "Engagement",
+      "Construction",
+      "Moving",
+      "Start Learning",
+      "Travelling"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Net Weaving",
+      "Fishing",
+      "Grand Opening",
+      "Signing Contracts"
+    ]
+  },
+  "2026-07-06": {
+    "favourable": [
+      "Planting",
+      "Animal Acquiring",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Travelling",
+      "Hunting",
+      "Fishing",
+      "Acupuncture",
+      "Wine Distillation"
+    ]
+  },
+  "2026-07-07": {
+    "favourable": [
+      "Grand Opening",
+      "Signing Contracts",
+      "Animal Acquiring",
+      "Planting",
+      "Ditching"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Net Weaving",
+      "Wine Distillation",
+      "Burial"
+    ]
+  },
+  "2026-07-08": {
+    "favourable": [
+      "Worship",
+      "Social Gathering",
+      "Wedding",
+      "Travelling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Wood Cutting",
+      "Nursery Set-up",
+      "Fishing",
+      "Funeral"
+    ]
+  },
+  "2026-07-09": {
+    "favourable": [
+      "Hair Cutting",
+      "Engagement",
+      "Wedding",
+      "Travelling",
+      "Moving",
+      "Grand Opening",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Hunting",
+      "Fishing"
+    ]
+  },
+  "2026-07-10": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Grand Opening",
+      "Net Weaving",
+      "Planting",
+      "Wall Decorating",
+      "Moving"
+    ]
+  },
+  "2026-07-11": {
+    "favourable": [
+      "Worship",
+      "Hunting",
+      "Net Weaving",
+      "Fishing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Planting",
+      "Stove Set-up",
+      "Wedding",
+      "Burial"
+    ]
+  },
+  "2026-07-12": {
+    "favourable": [
+      "Bathing",
+      "Social Gathering",
+      "Tailoring",
+      "Animal Acquiring",
+      "Construction",
+      "Wine Distillation"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Hair Cutting",
+      "Grand Opening"
+    ]
+  },
+  "2026-07-13": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-14": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-15": {
+    "favourable": [
+      "Social Gathering",
+      "Engagement",
+      "Grand Opening",
+      "Trading",
+      "Signing Contracts",
+      "Planting",
+      "Bed Set-up",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Door Fixing",
+      "Net Weaving"
+    ]
+  },
+  "2026-07-16": {
+    "favourable": [
+      "Wedding",
+      "Signing Contracts",
+      "Travelling",
+      "Moving",
+      "Start Learning",
+      "Construction",
+      "Grand Opening",
+      "Trading"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wine Distillation",
+      "Wood Cutting"
+    ]
+  },
+  "2026-07-17": {
+    "favourable": [
+      "Worship",
+      "Planting",
+      "Capturing",
+      "Animal Acquiring"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Signing Contracts",
+      "Travelling",
+      "Grand Opening",
+      "Bed Set-up",
+      "Ditching"
+    ]
+  },
+  "2026-07-18": {
+    "favourable": [
+      "Worship",
+      "Social Gathering",
+      "Door Fixing",
+      "Start Learning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Trading",
+      "Lawsuit",
+      "Travelling",
+      "Construction",
+      "Moving"
+    ]
+  },
+  "2026-07-19": {
+    "favourable": [
+      "Worship",
+      "Wine Distillation",
+      "Crack Refilling",
+      "Tailoring",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Loan Arrangement",
+      "Ditching"
+    ]
+  },
+  "2026-07-20": {
+    "favourable": [
+      "Worship",
+      "Engagement",
+      "Wedding",
+      "Bed Set-up",
+      "Animal Acquiring",
+      "Travelling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Planting",
+      "Funeral",
+      "Burial"
+    ]
+  },
+  "2026-07-21": {
+    "favourable": [
+      "Worship",
+      "House Cleaning",
+      "Hair Cutting",
+      "Door Fixing",
+      "Travelling",
+      "Planting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Stove Set-up"
+    ]
+  },
+  "2026-07-22": {
+    "favourable": [
+      "Blessing",
+      "Door Fixing",
+      "Animal Acquiring",
+      "Bed Set-up",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Lawsuit",
+      "Hair Cutting",
+      "Wall Decorating",
+      "Hunting"
+    ]
+  },
+  "2026-07-23": {
+    "favourable": [
+      "Worship",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Travelling",
+      "Moving",
+      "Construction",
+      "Nursery Set-up"
+    ]
+  },
+  "2026-07-24": {
+    "favourable": [
+      "Engagement",
+      "Social Gathering",
+      "Animal Acquiring",
+      "Planting",
+      "Trading",
+      "Wine Distillation",
+      "Construction",
+      "Signing Contracts"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Fishing"
+    ]
+  },
+  "2026-07-25": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-26": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-07-27": {
+    "favourable": [
+      "Grand Opening",
+      "Start Learning",
+      "Loan Arrangement",
+      "Construction",
+      "Bed Set-up",
+      "Travelling",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Ditching"
+    ]
+  },
+  "2026-07-28": {
+    "favourable": [
+      "Construction",
+      "Travelling",
+      "Start Learning",
+      "Bed Set-up",
+      "Loan Arrangement",
+      "Grand Opening",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching",
+      "Lawsuit",
+      "Fishing"
+    ]
+  },
+  "2026-07-29": {
+    "favourable": [
+      "Wedding",
+      "Construction",
+      "Social Gathering",
+      "Travelling",
+      "Moving",
+      "Tailoring",
+      "Planting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-07-30": {
+    "favourable": [
+      "Worship",
+      "Social Gathering",
+      "Start Learning",
+      "Stove Set-up"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Signing Contracts",
+      "Trading",
+      "Planting",
+      "Burial"
+    ]
+  },
+  "2026-07-31": {
+    "favourable": [
+      "Crack Refilling",
+      "House Cleaning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Nursery Set-up",
+      "Stove Set-up",
+      "Trading",
+      "Planting",
+      "Ditching"
+    ]
+  },
+  "2026-08-01": {
+    "favourable": [
+      "Worship",
+      "Travelling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Hair Cutting",
+      "Wedding",
+      "Ditching",
+      "Construction",
+      "Funeral"
+    ]
+  },
+  "2026-08-02": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "Hair Cutting",
+      "House Cleaning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Signing Contracts",
+      "Travelling",
+      "Trading",
+      "Bed Set-up",
+      "Burial"
+    ]
+  },
+  "2026-08-03": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Start Learning",
+      "Construction",
+      "Travelling",
+      "Signing Contracts",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Social Gathering",
+      "Acupuncture"
+    ]
+  },
+  "2026-08-04": {
+    "favourable": [
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Social Gathering",
+      "Travelling",
+      "Moving",
+      "Net Weaving",
+      "Planting"
+    ]
+  },
+  "2026-08-05": {
+    "favourable": [
+      "Social Gathering",
+      "Animal Acquiring",
+      "Net Weaving",
+      "Travelling",
+      "Moving",
+      "Signing Contracts",
+      "Trading",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wine Distillation",
+      "Wedding",
+      "Burial"
+    ]
+  },
+  "2026-08-06": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-07": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-08": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-09": {
+    "favourable": [
+      "Worship",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Nursery Set-up",
+      "Travelling"
+    ]
+  },
+  "2026-08-10": {
+    "favourable": [
+      "Worship",
+      "Start Learning",
+      "Engagement",
+      "Wood Cutting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Stove Set-up",
+      "Crack Refilling"
+    ]
+  },
+  "2026-08-11": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Signing Contracts",
+      "Trading",
+      "Grand Opening",
+      "Wine Distillation",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Travelling",
+      "Construction",
+      "Ditching"
+    ]
+  },
+  "2026-08-12": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-13": {
+    "favourable": [
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Trading",
+      "Travelling",
+      "Start Learning",
+      "Grand Opening",
+      "Moving"
+    ]
+  },
+  "2026-08-14": {
+    "favourable": [
+      "Bathing",
+      "House Cleaning",
+      "Door Fixing",
+      "Animal Acquiring",
+      "Money Collecting",
+      "Travelling"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Construction",
+      "Burial"
+    ]
+  },
+  "2026-08-15": {
+    "favourable": [
+      "Hair Cutting",
+      "Bathing",
+      "House Cleaning",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Trading",
+      "Wine Distillation",
+      "Travelling",
+      "Fishing",
+      "Planting"
+    ]
+  },
+  "2026-08-16": {
+    "favourable": [
+      "Wedding",
+      "Grand Opening",
+      "Net Weaving",
+      "Animal Acquiring",
+      "Planting",
+      "Construction",
+      "Moving",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching",
+      "Fishing",
+      "Hunting",
+      "Funeral"
+    ]
+  },
+  "2026-08-17": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Lawsuit",
+      "Wedding",
+      "Hunting",
+      "Fishing"
+    ]
+  },
+  "2026-08-18": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-19": {
+    "favourable": [
+      "Animal Acquiring",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Money Collecting",
+      "Signing Contracts"
+    ]
+  },
+  "2026-08-20": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-21": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Trading",
+      "Signing Contracts",
+      "Travelling",
+      "Bed Set-up",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Construction",
+      "Ditching"
+    ]
+  },
+  "2026-08-22": {
+    "favourable": [
+      "Start Learning",
+      "Social Gathering",
+      "Grand Opening",
+      "Trading",
+      "Animal Acquiring",
+      "Wine Distillation",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Hunting",
+      "Lawsuit",
+      "Acupuncture"
+    ]
+  },
+  "2026-08-23": {
+    "favourable": [
+      "Grand Opening",
+      "Wedding",
+      "Signing Contracts",
+      "Construction",
+      "Animal Acquiring",
+      "Moving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling"
+    ]
+  },
+  "2026-08-24": {
+    "favourable": [
+      "Worship",
+      "Start Learning",
+      "Construction"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Wood Cutting",
+      "Net Weaving",
+      "Fishing"
+    ]
+  },
+  "2026-08-25": {
+    "favourable": [
+      "Worship",
+      "Construction",
+      "Travelling",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Ditching",
+      "Bed Set-up",
+      "Stove Set-up",
+      "Moving",
+      "Wine Distillation"
+    ]
+  },
+  "2026-08-26": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Social Gathering",
+      "Travelling",
+      "Moving",
+      "Stove Set-up",
+      "Grand Opening",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Construction",
+      "Ditching"
+    ]
+  },
+  "2026-08-27": {
+    "favourable": [
+      "House Cleaning",
+      "Animal Acquiring",
+      "Engagement",
+      "Tailoring",
+      "Construction",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Lawsuit",
+      "Wine Distillation",
+      "Planting",
+      "Fishing"
+    ]
+  },
+  "2026-08-28": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-29": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-30": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-08-31": {
+    "favourable": [
+      "Wedding",
+      "Planting",
+      "Social Gathering",
+      "Travelling",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Moving",
+      "Hunting",
+      "Fishing"
+    ]
+  },
+  "2026-09-01": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-02": {
+    "favourable": [
+      "Worship",
+      "Hair Cutting",
+      "Social Gathering"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Moving",
+      "Travelling",
+      "Construction",
+      "Wall Decorating",
+      "Ditching"
+    ]
+  },
+  "2026-09-03": {
+    "favourable": [
+      "Worship",
+      "Blessing",
+      "Social Gathering",
+      "Door Fixing",
+      "Ditching",
+      "Stove Set-up"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Net Weaving",
+      "Animal Acquiring"
+    ]
+  },
+  "2026-09-04": {
+    "favourable": [
+      "Wedding",
+      "Trading",
+      "Signing Contracts",
+      "Social Gathering",
+      "Planting",
+      "Grand Opening"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Wine Distillation",
+      "Wood Cutting"
+    ]
+  },
+  "2026-09-05": {
+    "favourable": [
+      "Blessing",
+      "Grand Opening",
+      "Wedding",
+      "Engagement",
+      "Construction",
+      "Nursery Set-up",
+      "Travelling",
+      "Planting"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wood Cutting",
+      "Ditching",
+      "Fishing"
+    ]
+  },
+  "2026-09-06": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Moving",
+      "Lawsuit",
+      "Acupuncture",
+      "Animal Acquiring"
+    ]
+  },
+  "2026-09-07": {
+    "favourable": [
+      "Bathing",
+      "Hair Cutting",
+      "Wedding",
+      "Travelling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Bed Set-up",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-09-08": {
+    "favourable": [
+      "House Cleaning",
+      "Bathing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Planting",
+      "Ditching",
+      "Nursery Set-up"
+    ]
+  },
+  "2026-09-09": {
+    "favourable": [
+      "Hair Cutting",
+      "House Cleaning",
+      "Travelling",
+      "Planting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Acupuncture",
+      "Net Weaving",
+      "Stove Set-up",
+      "Signing Contracts",
+      "Burial"
+    ]
+  },
+  "2026-09-10": {
+    "favourable": [
+      "Signing Contracts",
+      "Trading",
+      "Grand Opening",
+      "Travelling",
+      "Money Collecting",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Fishing"
+    ]
+  },
+  "2026-09-11": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-12": {
+    "favourable": [
+      "Wedding",
+      "Social Gathering",
+      "Signing Contracts",
+      "Engagement",
+      "Trading",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Nursery Set-up",
+      "Planting"
+    ]
+  },
+  "2026-09-13": {
+    "favourable": [
+      "Hair Cutting",
+      "Bathing",
+      "Capturing",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Worship",
+      "Grand Opening",
+      "Net Weaving",
+      "Fishing",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-09-14": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-15": {
+    "favourable": [
+      "Worship",
+      "Blessing",
+      "Tailoring"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Ditching"
+    ]
+  },
+  "2026-09-16": {
+    "favourable": [
+      "Start Learning",
+      "Social Gathering",
+      "Engagement",
+      "Wedding",
+      "Moving",
+      "Grand Opening",
+      "Trading",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Lawsuit",
+      "Burial"
+    ]
+  },
+  "2026-09-17": {
+    "favourable": [
+      "Worship",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Signing Contracts",
+      "Loan Arrangement",
+      "Ditching"
+    ]
+  },
+  "2026-09-18": {
+    "favourable": [
+      "Grand Opening",
+      "Money Collecting",
+      "Wedding",
+      "Start Learning",
+      "Tailoring",
+      "Moving",
+      "Travelling",
+      "Social Gathering"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Planting",
+      "Construction"
+    ]
+  },
+  "2026-09-19": {
+    "favourable": [
+      "Worship",
+      "House Cleaning",
+      "Hair Cutting",
+      "Animal Acquiring",
+      "Wine Distillation",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Stove Set-up"
+    ]
+  },
+  "2026-09-20": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Hair Cutting",
+      "Wood Cutting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Construction",
+      "Signing Contracts"
+    ]
+  },
+  "2026-09-21": {
+    "favourable": [
+      "Worship",
+      "House Cleaning",
+      "Hair Cutting",
+      "Travelling",
+      "Construction",
+      "Planting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Acupuncture",
+      "Grand Opening",
+      "Nursery Set-up",
+      "Funeral"
+    ]
+  },
+  "2026-09-22": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-23": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-24": {
+    "favourable": [
+      "Tailoring",
+      "Social Gathering",
+      "Door Fixing",
+      "Net Weaving",
+      "Money Collecting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Worship",
+      "Engagement",
+      "Ditching",
+      "Wine Distillation"
+    ]
+  },
+  "2026-09-25": {
+    "favourable": [
+      "Door Fixing",
+      "Stove Set-up",
+      "Net Weaving",
+      "Capturing"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Wedding",
+      "Travelling",
+      "Ditching",
+      "Burial"
+    ]
+  },
+  "2026-09-26": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-09-27": {
+    "favourable": [
+      "Worship",
+      "Bed Set-up",
+      "Capturing",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Ditching",
+      "Hair Cutting",
+      "Travelling",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-09-28": {
+    "favourable": [
+      "Blessing",
+      "Grand Opening",
+      "Wedding",
+      "Start Learning",
+      "Trading",
+      "Signing Contracts",
+      "Moving",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Planting",
+      "Fishing",
+      "Hunting"
+    ]
+  },
+  "2026-09-29": {
+    "favourable": [
+      "Worship",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Construction",
+      "Grand Opening",
+      "Stove Set-up",
+      "Burial"
+    ]
+  },
+  "2026-09-30": {
+    "favourable": [
+      "Worship",
+      "Tailoring",
+      "Travelling",
+      "Start Learning",
+      "Moving",
+      "Animal Acquiring"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Wedding",
+      "Stove Set-up"
+    ]
+  },
+  "2026-10-01": {
+    "favourable": [
+      "Bathing",
+      "Hair Cutting",
+      "House Cleaning",
+      "Planting",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Acupuncture",
+      "Bed Set-up",
+      "Buying Properties"
+    ]
+  },
+  "2026-10-02": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Social Gathering",
+      "Travelling",
+      "Grand Opening",
+      "Trading",
+      "Stove Set-up",
+      "Construction"
+    ]
+  },
+  "2026-10-03": {
+    "favourable": [
+      "Wedding",
+      "Social Gathering",
+      "Hair Cutting",
+      "House Cleaning",
+      "Travelling",
+      "Moving",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Net Weaving",
+      "Fishing",
+      "Acupuncture",
+      "Funeral"
+    ]
+  },
+  "2026-10-04": {
+    "favourable": [
+      "Bathing",
+      "Tailoring",
+      "Travelling",
+      "Moving",
+      "Crack Refilling"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Wine Distillation",
+      "Grand Opening",
+      "Trading"
+    ]
+  },
+  "2026-10-05": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-06": {
+    "favourable": [
+      "Grand Opening",
+      "Trading",
+      "Moving",
+      "Travelling",
+      "Engagement",
+      "Signing Contracts",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Nursery Set-up",
+      "Planting",
+      "Lawsuit"
+    ]
+  },
+  "2026-10-07": {
+    "favourable": [
+      "Capturing",
+      "Hunting",
+      "Bathing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Wedding",
+      "Moving",
+      "Wine Distillation",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-10-08": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-09": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-10": {
+    "favourable": [
+      "Worship",
+      "Bed Set-up",
+      "Animal Acquiring",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Hair Cutting",
+      "Acupuncture"
+    ]
+  },
+  "2026-10-11": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Moving",
+      "Animal Acquiring",
+      "Travelling",
+      "Construction",
+      "Grand Opening",
+      "Trading"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Buying Properties",
+      "Burial"
+    ]
+  },
+  "2026-10-12": {
+    "favourable": [
+      "Capturing",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Construction",
+      "Travelling"
+    ]
+  },
+  "2026-10-13": {
+    "favourable": [
+      "Blessing",
+      "Nursery Set-up",
+      "Start Learning",
+      "Travelling",
+      "Ditching",
+      "Grand Opening",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Net Weaving",
+      "Bed Set-up",
+      "Crack Refilling"
+    ]
+  },
+  "2026-10-14": {
+    "favourable": [
+      "Hair Cutting",
+      "Bathing",
+      "Tailoring",
+      "House Cleaning"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Social Gathering",
+      "Acupuncture",
+      "Door Fixing",
+      "Planting",
+      "Hunting",
+      "Wine Distillation"
+    ]
+  },
+  "2026-10-15": {
+    "favourable": [
+      "Engagement",
+      "Social Gathering",
+      "Travelling",
+      "Moving",
+      "Animal Acquiring"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching",
+      "Construction",
+      "Funeral"
+    ]
+  },
+  "2026-10-16": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Stove Set-up"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Planting",
+      "Ditching",
+      "Construction",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-10-17": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-18": {
+    "favourable": [
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Construction",
+      "Start Learning",
+      "Planting",
+      "Fishing"
+    ]
+  },
+  "2026-10-19": {
+    "favourable": [
+      "Construction",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Worship",
+      "Stove Set-up",
+      "Wood Cutting",
+      "Travelling",
+      "Wedding",
+      "Moving"
+    ]
+  },
+  "2026-10-20": {
+    "favourable": [
+      "Worship",
+      "Wedding",
+      "Social Gathering",
+      "Wine Distillation",
+      "Construction",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Hair Cutting",
+      "Grand Opening",
+      "Ditching"
+    ]
+  },
+  "2026-10-21": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-22": {
+    "favourable": [
+      "Worship",
+      "Bed Set-up",
+      "Net Weaving",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Blessing",
+      "Travelling",
+      "Acupuncture",
+      "Burial"
+    ]
+  },
+  "2026-10-23": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Trading",
+      "Travelling",
+      "Moving",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wood Cutting",
+      "Net Weaving"
+    ]
+  },
+  "2026-10-24": {
+    "favourable": [
+      "Worship",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Fishing",
+      "Planting",
+      "Construction",
+      "Ditching",
+      "Wine Distillation"
+    ]
+  },
+  "2026-10-25": {
+    "favourable": [
+      "Blessing",
+      "Start Learning",
+      "Travelling",
+      "Social Gathering",
+      "Moving",
+      "Grand Opening",
+      "Money Collecting",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Bed Set-up",
+      "Ditching"
+    ]
+  },
+  "2026-10-26": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Hair Cutting",
+      "Crack Refilling"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Grand Opening",
+      "Trading",
+      "Lawsuit",
+      "Acupuncture"
+    ]
+  },
+  "2026-10-27": {
+    "favourable": [
+      "Worship"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Grand Opening",
+      "Trading",
+      "Loan Arrangement",
+      "Burial"
+    ]
+  },
+  "2026-10-28": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-29": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-10-30": {
+    "favourable": [
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Hair Cutting",
+      "Tailoring",
+      "Signing Contracts",
+      "Grand Opening",
+      "Moving",
+      "Wine Distillation"
+    ]
+  },
+  "2026-10-31": {
+    "favourable": [
+      "Net Weaving",
+      "Fishing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Worship",
+      "Wedding",
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Travelling",
+      "Construction"
+    ]
+  },
+  "2026-11-01": {
+    "favourable": [
+      "Wedding",
+      "Social Gathering",
+      "Net Weaving",
+      "Capturing",
+      "Wine Distillation",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Grand Opening",
+      "Wood Cutting"
+    ]
+  },
+  "2026-11-02": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-03": {
+    "favourable": [
+      "Construction",
+      "Bed Set-up",
+      "Trading",
+      "Moving",
+      "Planting",
+      "Animal Acquiring"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Fishing",
+      "Acupuncture",
+      "Wine Distillation"
+    ]
+  },
+  "2026-11-04": {
+    "favourable": [
+      "Worship",
+      "Moving",
+      "Wedding",
+      "Travelling",
+      "Grand Opening",
+      "Signing Contracts",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching",
+      "Wood Cutting"
+    ]
+  },
+  "2026-11-05": {
+    "favourable": [
+      "Net Weaving",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Lawsuit",
+      "Travelling",
+      "Construction",
+      "Burial"
+    ]
+  },
+  "2026-11-06": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-07": {
+    "favourable": [
+      "Hair Cutting",
+      "House Cleaning",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Door Fixing",
+      "Bed Set-up",
+      "Grand Opening",
+      "Planting",
+      "Acupuncture",
+      "Wine Distillation"
+    ]
+  },
+  "2026-11-08": {
+    "favourable": [
+      "Tailoring",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Grand Opening",
+      "Construction",
+      "Travelling",
+      "Stove Set-up"
+    ]
+  },
+  "2026-11-09": {
+    "favourable": [
+      "Worship",
+      "Bathing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Hair Cutting",
+      "Wedding",
+      "Trading",
+      "Travelling",
+      "Construction"
+    ]
+  },
+  "2026-11-10": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-11": {
+    "favourable": [
+      "Worship",
+      "Social Gathering",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Wedding",
+      "Wood Cutting",
+      "Planting",
+      "Funeral"
+    ]
+  },
+  "2026-11-12": {
+    "favourable": [
+      "Grand Opening",
+      "Construction",
+      "Trading",
+      "Engagement",
+      "Wedding",
+      "Travelling",
+      "Moving",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Net Weaving",
+      "Fishing"
+    ]
+  },
+  "2026-11-13": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Moving",
+      "Travelling",
+      "Signing Contracts",
+      "Trading",
+      "Construction",
+      "Grand Opening"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Nursery Set-up",
+      "Wine Distillation",
+      "Ditching"
+    ]
+  },
+  "2026-11-14": {
+    "favourable": [
+      "Hair Cutting",
+      "Hunting",
+      "Net Weaving",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Moving",
+      "Bed Set-up",
+      "Ditching",
+      "Grand Opening",
+      "Construction"
+    ]
+  },
+  "2026-11-15": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-16": {
+    "favourable": [
+      "Social Gathering",
+      "Engagement",
+      "Wedding",
+      "Bed Set-up",
+      "Travelling",
+      "Moving",
+      "Construction",
+      "Burial"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-11-17": {
+    "favourable": [
+      "Start Learning",
+      "Door Fixing",
+      "Construction",
+      "Trading",
+      "Grand Opening",
+      "Wine Distillation",
+      "Signing Contracts",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Moving",
+      "Planting",
+      "Capturing"
+    ]
+  },
+  "2026-11-18": {
+    "favourable": [
+      "House Cleaning",
+      "Capturing",
+      "Wood Cutting",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Grand Opening",
+      "Bed Set-up",
+      "Stove Set-up",
+      "Moving",
+      "Construction"
+    ]
+  },
+  "2026-11-19": {
+    "favourable": [
+      "Worship",
+      "Bathing",
+      "House Cleaning",
+      "Bed Set-up",
+      "Start Learning",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Trading",
+      "Engagement",
+      "Signing Contracts"
+    ]
+  },
+  "2026-11-20": {
+    "favourable": [
+      "Construction"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Buying Properties"
+    ]
+  },
+  "2026-11-21": {
+    "favourable": [
+      "Worship",
+      "Social Gathering"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Animal Acquiring",
+      "Grand Opening",
+      "Travelling",
+      "Net Weaving",
+      "Construction"
+    ]
+  },
+  "2026-11-22": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-23": {
+    "favourable": [
+      "Hair Cutting",
+      "Social Gathering",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Grand Opening",
+      "Wine Distillation",
+      "Bed Set-up",
+      "Construction",
+      "Funeral"
+    ]
+  },
+  "2026-11-24": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Trading",
+      "Construction",
+      "Planting",
+      "Travelling",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Stove Set-up",
+      "Ditching"
+    ]
+  },
+  "2026-11-25": {
+    "favourable": [
+      "Grand Opening",
+      "Travelling",
+      "Engagement",
+      "Money Collecting",
+      "Moving",
+      "Construction",
+      "Wedding",
+      "Net Weaving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Lawsuit",
+      "Nursery Set-up",
+      "Planting"
+    ]
+  },
+  "2026-11-26": {
+    "favourable": [
+      "Blessing",
+      "Wedding",
+      "Engagement",
+      "Tailoring",
+      "Travelling",
+      "Trading",
+      "Moving",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wall Decorating",
+      "Construction",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-11-27": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-11-28": {
+    "favourable": [
+      "Worship",
+      "Blessing",
+      "Hunting",
+      "Wood Cutting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Moving",
+      "Travelling",
+      "Stove Set-up"
+    ]
+  },
+  "2026-11-29": {
+    "favourable": [
+      "Grand Opening",
+      "Start Learning",
+      "Social Gathering",
+      "Tailoring",
+      "Trading",
+      "Signing Contracts",
+      "Animal Acquiring",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wedding",
+      "Lawsuit",
+      "Hair Cutting",
+      "Hunting"
+    ]
+  },
+  "2026-11-30": {
+    "favourable": [
+      "Bathing",
+      "House Cleaning",
+      "Wood Cutting",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Bed Set-up",
+      "Nursery Set-up",
+      "Grand Opening",
+      "Ditching",
+      "Travelling"
+    ]
+  },
+  "2026-12-01": {
+    "favourable": [
+      "Wedding",
+      "Start Learning",
+      "Tailoring",
+      "Nursery Set-up",
+      "Grand Opening",
+      "Travelling",
+      "Construction",
+      "Moving"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Fishing",
+      "Hunting",
+      "Crack Refilling"
+    ]
+  },
+  "2026-12-02": {
+    "favourable": [
+      "Worship",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Door Fixing",
+      "Bed Set-up",
+      "Passage Fixing",
+      "Wall Decorating",
+      "Net Weaving",
+      "Stove Set-up"
+    ]
+  },
+  "2026-12-03": {
+    "favourable": [
+      "Worship",
+      "Bathing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Grand Opening",
+      "Social Gathering",
+      "Wedding",
+      "Trading",
+      "Construction",
+      "Wine Distillation"
+    ]
+  },
+  "2026-12-04": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-05": {
+    "favourable": [
+      "Worship",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Travelling",
+      "Construction",
+      "Grand Opening",
+      "Lawsuit",
+      "Funeral",
+      "Burial"
+    ]
+  },
+  "2026-12-06": {
+    "favourable": [
+      "Travelling",
+      "Animal Acquiring",
+      "Grand Opening",
+      "Moving",
+      "Planting",
+      "Construction",
+      "Wine Distillation",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Engagement",
+      "Fishing"
+    ]
+  },
+  "2026-12-07": {
+    "favourable": [
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Construction",
+      "Planting",
+      "Ditching"
+    ]
+  },
+  "2026-12-08": {
+    "favourable": [
+      "Engagement",
+      "Wedding",
+      "Net Weaving",
+      "Door Fixing",
+      "Tailoring",
+      "Wine Distillation",
+      "Trading",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Planting",
+      "Nursery Set-up",
+      "Stove Set-up"
+    ]
+  },
+  "2026-12-09": {
+    "favourable": [
+      "Worship",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Signing Contracts",
+      "Engagement",
+      "Hair Cutting",
+      "Travelling",
+      "Moving",
+      "Construction"
+    ]
+  },
+  "2026-12-10": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-11": {
+    "favourable": [
+      "Hair Cutting",
+      "Wood Cutting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Travelling",
+      "Wine Distillation",
+      "Moving",
+      "Grand Opening",
+      "Burial"
+    ]
+  },
+  "2026-12-12": {
+    "favourable": [
+      "Travelling",
+      "Moving",
+      "Grand Opening",
+      "Start Learning",
+      "Trading",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Bed Set-up",
+      "Planting",
+      "Net Weaving",
+      "Construction"
+    ]
+  },
+  "2026-12-13": {
+    "favourable": [
+      "Hair Cutting",
+      "House Cleaning",
+      "Tailoring",
+      "Hunting"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Signing Contracts",
+      "Trading",
+      "Grand Opening",
+      "Travelling",
+      "Construction",
+      "Wine Distillation"
+    ]
+  },
+  "2026-12-14": {
+    "favourable": [
+      "Blessing",
+      "Engagement",
+      "Grand Opening",
+      "Start Learning",
+      "Construction",
+      "Nursery Set-up"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Travelling",
+      "Moving",
+      "Wood Cutting",
+      "Ditching"
+    ]
+  },
+  "2026-12-15": {
+    "favourable": [
+      "Bathing",
+      "Crack Refilling"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Signing Contracts",
+      "Trading",
+      "Travelling",
+      "Lawsuit",
+      "Grand Opening"
+    ]
+  },
+  "2026-12-16": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-17": {
+    "favourable": [
+      "Blessing",
+      "Travelling",
+      "Social Gathering",
+      "Wedding",
+      "Moving",
+      "Trading",
+      "Construction",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hunting",
+      "Fishing",
+      "Planting",
+      "Wood Cutting"
+    ]
+  },
+  "2026-12-18": {
+    "favourable": [
+      "Social Gathering",
+      "Planting",
+      "Travelling",
+      "Grand Opening",
+      "Signing Contracts",
+      "Trading",
+      "Tailoring",
+      "Construction"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Moving",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-12-19": {
+    "favourable": [
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Signing Contracts",
+      "Trading",
+      "Hair Cutting",
+      "Grand Opening",
+      "Ditching"
+    ]
+  },
+  "2026-12-20": {
+    "favourable": [
+      "Blessing",
+      "Engagement",
+      "Wedding",
+      "Animal Acquiring",
+      "Signing Contracts",
+      "Trading",
+      "Wine Distillation",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Wood Cutting",
+      "Planting",
+      "Nursery Set-up"
+    ]
+  },
+  "2026-12-21": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-22": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-23": {
+    "favourable": [
+      "Wood Cutting",
+      "Hunting",
+      "Net Weaving"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Engagement",
+      "Wedding",
+      "Grand Opening",
+      "Construction",
+      "Wine Distillation"
+    ]
+  },
+  "2026-12-24": {
+    "favourable": [
+      "Wedding",
+      "Social Gathering",
+      "Travelling",
+      "Start Learning",
+      "Moving",
+      "Trading",
+      "Grand Opening",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Ditching",
+      "Bed Set-up",
+      "Construction"
+    ]
+  },
+  "2026-12-25": {
+    "favourable": [
+      "Hair Cutting",
+      "Bathing",
+      "House Cleaning",
+      "Capturing"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Wedding",
+      "Trading",
+      "Travelling",
+      "Grand Opening",
+      "Animal Acquiring",
+      "Lawsuit"
+    ]
+  },
+  "2026-12-26": {
+    "favourable": [
+      "Worship",
+      "Nursery Set-up",
+      "Ditching",
+      "Start Learning",
+      "Planting",
+      "Engagement",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Crack Refilling",
+      "Loan Arrangement"
+    ]
+  },
+  "2026-12-27": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-28": {
+    "favourable": [],
+    "type": "unlucky",
+    "unfavourable": []
+  },
+  "2026-12-29": {
+    "favourable": [
+      "Worship",
+      "Social Gathering",
+      "Engagement",
+      "Travelling",
+      "Wedding",
+      "Grand Opening",
+      "Moving",
+      "Burial"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Hair Cutting",
+      "Hunting"
+    ]
+  },
+  "2026-12-30": {
+    "favourable": [
+      "Wedding",
+      "Tailoring",
+      "Social Gathering",
+      "Grand Opening",
+      "Planting",
+      "Trading",
+      "Travelling",
+      "Construction"
+    ],
+    "type": "lucky",
+    "unfavourable": [
+      "Worship",
+      "Blessing",
+      "Buying Properties"
+    ]
+  },
+  "2026-12-31": {
+    "favourable": [
+      "Passage Fixing",
+      "Wall Decorating"
+    ],
+    "type": "ordinary",
+    "unfavourable": [
+      "Animal Acquiring",
+      "Planting",
+      "Hunting",
+      "Moving"
+    ]
+  }
+}

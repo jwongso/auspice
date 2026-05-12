@@ -96,7 +96,6 @@ GET /best?activity=interview&from=2026-05-12&to=2026-05-20
 ## Data coverage
 
 May 1 - December 31, 2026 (245 days). Source: Bank Sinarmas 2026 almanac calendar.
-Indonesian public holidays and bank promotions are excluded.
 
 ## Stack
 

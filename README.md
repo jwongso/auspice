@@ -3,21 +3,11 @@
 A serverless REST API that serves fengshui almanac calendar data for 2026.
 Built on Cloudflare Workers - no database, no cold starts.
 
+> **Note:** The API has no concept of "today". Callers are responsible for passing
+> their own local date. This avoids timezone bugs where a UTC-based server would
+> return yesterday's or tomorrow's reading for users in non-UTC timezones.
+
 ## Endpoints
-
-### `GET /today`
-Returns the fengshui day type and activities for today.
-
-```json
-{
-  "date": "2026-05-12",
-  "type": "ordinary",
-  "favourable": ["Worship", "Hair Cutting", "Social Gathering", "Capturing"],
-  "unfavourable": ["Grand Opening", "Moving", "Stove Set-up", "Planting", "Burial"]
-}
-```
-
----
 
 ### `GET /day?date=YYYY-MM-DD`
 Returns fengshui data for a specific date.
@@ -33,6 +23,14 @@ GET /day?date=2026-05-03
   "favourable": ["Worship", "Travelling", "Engagement", "Wedding", "Construction", "Burial"],
   "unfavourable": ["Hair Cutting", "Fishing", "Stove Set-up"]
 }
+```
+
+To look up today, pass your local date from the client:
+
+```javascript
+// Browser / extension
+const today = new Date().toLocaleDateString('en-CA'); // → "2026-05-13"
+fetch(`https://auspice.workers.dev/day?date=${today}`);
 ```
 
 **Day types:**
@@ -76,6 +74,12 @@ GET /best?activity=interview&from=2026-05-12&to=2026-05-20
     { "date": "2026-05-19", "type": "ordinary", "matched": ["Social Gathering"] }
   ]
 }
+```
+
+Add `&weekend=false` to exclude Saturdays and Sundays:
+
+```
+GET /best?activity=interview&from=2026-05-12&to=2026-05-20&weekend=false
 ```
 
 **Supported activities:**

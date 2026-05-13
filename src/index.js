@@ -34,7 +34,6 @@ function handleDay(params) {
     return json({ error: `no data for ${date}` }, 404);
   return json({ date, ...entry });
 }
-
 function handleMonth(params) {
   const year  = params.get('year');
   const month = params.get('month');
@@ -95,14 +94,6 @@ function handleBest(params) {
   return json({ activity, from, to, weekend: !excludeWeekend, count: results.length, days: results });
 }
 
-function handleToday() {
-  const today = new Date().toISOString().slice(0, 10);
-  const entry = CALENDAR[today];
-  if (!entry)
-    return json({ error: `no data for today (${today})` }, 404);
-  return json({ date: today, ...entry });
-}
-
 export default {
   async fetch(request) {
     const url  = new URL(request.url);
@@ -115,19 +106,18 @@ export default {
       case '/day':   return handleDay(url.searchParams);
       case '/month': return handleMonth(url.searchParams);
       case '/best':  return handleBest(url.searchParams);
-      case '/today': return handleToday();
       case '/':
         return json({
           name: 'Auspice',
           description: 'Fengshui calendar API - 2026',
           endpoints: {
-            '/today':                        'Todays fengshui day',
             '/day?date=YYYY-MM-DD':          'Single day lookup',
             '/month?year=YYYY&month=M':      'Full month',
             '/best?activity=X&from=Y&to=Z':              'Best days for an activity in a date range',
             '/best?activity=X&from=Y&to=Z&weekend=false': 'Same, excluding Saturdays and Sundays',
           },
           activities: Object.keys(ACTIVITY_MAP),
+          note: 'Pass the caller\'s local date explicitly — the API has no concept of "today".',
         });
       default:
         return json({ error: 'not found' }, 404);

@@ -1,4 +1,4 @@
-import CALENDAR from '../fs.json';
+import CALENDAR from '../fs.json' with { type: 'json' };
 
 const ACTIVITY_MAP = {
   interview:  ['Signing Contracts', 'Start Learning', 'Social Gathering'],
@@ -22,7 +22,17 @@ function json(data, status = 200) {
 }
 
 function isValidDate(s) {
-  return /^\d{4}-\d{2}-\d{2}$/.test(s) && !isNaN(Date.parse(s));
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s);
+  if (!match) return false;
+
+  const year = Number(match[1]);
+  const month = Number(match[2]);
+  const day = Number(match[3]);
+  const date = new Date(Date.UTC(year, month - 1, day));
+
+  return date.getUTCFullYear() === year
+    && date.getUTCMonth() === month - 1
+    && date.getUTCDate() === day;
 }
 
 function handleDay(params) {
@@ -39,7 +49,10 @@ function handleMonth(params) {
   const month = params.get('month');
   if (!year || !month)
     return json({ error: 'year and month params required' }, 400);
-  const prefix = `${year}-${month.padStart(2, '0')}`;
+  const monthNumber = Number(month);
+  if (!/^\d{4}$/.test(year) || !/^\d{1,2}$/.test(month) || monthNumber < 1 || monthNumber > 12)
+    return json({ error: 'year must be YYYY and month must be 1-12' }, 400);
+  const prefix = `${year}-${String(monthNumber).padStart(2, '0')}`;
   const result = {};
   for (const [k, v] of Object.entries(CALENDAR)) {
     if (k.startsWith(prefix)) result[k] = v;

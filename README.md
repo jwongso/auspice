@@ -113,6 +113,7 @@ May 1 - December 31, 2026 (245 days). Source: Bank Sinarmas 2026 almanac calenda
 
 ```bash
 npm install
+npm test          # runs API route tests
 npm run dev       # starts dev server at http://localhost:8787
 ```
 

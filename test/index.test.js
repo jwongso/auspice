@@ -1,10 +1,10 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import worker from '../src/index.js';
+import { handleRequest } from '../src/index.js';
 
-async function get(path) {
-  const response = await worker.fetch(new Request(`https://auspice.test${path}`));
+async function get(path, now) {
+  const response = await handleRequest(new Request(`https://auspice.test${path}`), now);
   const body = await response.json();
   return { response, body };
 }
@@ -26,6 +26,31 @@ test('rejects impossible dates instead of normalizing them', async () => {
 
   assert.equal(response.status, 400);
   assert.deepEqual(body, { error: 'date param required (YYYY-MM-DD)' });
+});
+
+test('returns today in UTC by default', async () => {
+  const now = new Date('2026-05-02T16:00:00.000Z');
+  const { response, body } = await get('/today', now);
+
+  assert.equal(response.status, 200);
+  assert.equal(body.date, '2026-05-02');
+  assert.equal(body.type, 'unlucky');
+});
+
+test('returns today in the requested timezone', async () => {
+  const now = new Date('2026-05-02T16:00:00.000Z');
+  const { response, body } = await get('/today?timezone=Pacific/Auckland', now);
+
+  assert.equal(response.status, 200);
+  assert.equal(body.date, '2026-05-03');
+  assert.equal(body.type, 'lucky');
+});
+
+test('rejects invalid today timezone values', async () => {
+  const { response, body } = await get('/today?timezone=Not/AZone');
+
+  assert.equal(response.status, 400);
+  assert.deepEqual(body, { error: 'timezone must be a valid IANA timezone' });
 });
 
 test('returns a month for a valid year and month', async () => {

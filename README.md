@@ -3,11 +3,28 @@
 A serverless REST API that serves fengshui almanac calendar data for 2026.
 Built on Cloudflare Workers - no database, no cold starts.
 
-> **Note:** The API has no concept of "today". Callers are responsible for passing
-> their own local date. This avoids timezone bugs where a UTC-based server would
-> return yesterday's or tomorrow's reading for users in non-UTC timezones.
+> **Note:** `GET /today` defaults to UTC. Pass an IANA timezone such as
+> `Pacific/Auckland` to look up the caller's local day.
 
 ## Endpoints
+
+### `GET /today?timezone=Area/City`
+Returns fengshui data for the current date in a timezone. If `timezone` is omitted, UTC is used.
+
+```
+GET /today?timezone=Pacific/Auckland
+```
+
+```json
+{
+  "date": "2026-05-03",
+  "type": "lucky",
+  "favourable": ["Worship", "Travelling", "Engagement", "Wedding", "Construction", "Burial"],
+  "unfavourable": ["Hair Cutting", "Fishing", "Stove Set-up"]
+}
+```
+
+---
 
 ### `GET /day?date=YYYY-MM-DD`
 Returns fengshui data for a specific date.
@@ -25,12 +42,12 @@ GET /day?date=2026-05-03
 }
 ```
 
-To look up today, pass your local date from the client:
+You can also pass an explicit local date from the client:
 
 ```javascript
 // Browser / extension
 const today = new Date().toLocaleDateString('en-CA'); // → "2026-05-13"
-fetch(`https://auspice.workers.dev/day?date=${today}`);
+fetch(`https://fengshui.overhired.work/day?date=${today}`);
 ```
 
 **Day types:**

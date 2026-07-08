@@ -39,11 +39,40 @@ function handleDay(params) {
   const date = params.get('date');
   if (!date || !isValidDate(date))
     return json({ error: 'date param required (YYYY-MM-DD)' }, 400);
+  return dayResponse(date);
+}
+
+function dayResponse(date) {
   const entry = CALENDAR[date];
   if (!entry)
     return json({ error: `no data for ${date}` }, 404);
   return json({ date, ...entry });
 }
+
+export function dateInTimeZone(date, timeZone) {
+  const parts = new Intl.DateTimeFormat('en', {
+    timeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(date);
+  const values = Object.fromEntries(parts.map(part => [part.type, part.value]));
+
+  return `${values.year}-${values.month}-${values.day}`;
+}
+
+function handleToday(params, now = new Date()) {
+  const timezone = params.get('timezone') || 'UTC';
+
+  try {
+    return dayResponse(dateInTimeZone(now, timezone));
+  } catch (error) {
+    if (error instanceof RangeError)
+      return json({ error: 'timezone must be a valid IANA timezone' }, 400);
+    throw error;
+  }
+}
+
 function handleMonth(params) {
   const year  = params.get('year');
   const month = params.get('month');
@@ -107,33 +136,39 @@ function handleBest(params) {
   return json({ activity, from, to, weekend: !excludeWeekend, count: results.length, days: results });
 }
 
+export function handleRequest(request, now = new Date()) {
+  const url  = new URL(request.url);
+  const path = url.pathname.replace(/\/$/, '') || '/';
+
+  if (request.method === 'OPTIONS')
+    return new Response(null, { headers: CORS });
+
+  switch (path) {
+    case '/today': return handleToday(url.searchParams, now);
+    case '/day':   return handleDay(url.searchParams);
+    case '/month': return handleMonth(url.searchParams);
+    case '/best':  return handleBest(url.searchParams);
+    case '/':
+      return json({
+        name: 'Auspice',
+        description: 'Fengshui calendar API - 2026',
+        endpoints: {
+          '/today?timezone=Area/City':        'Current day lookup, defaulting to UTC',
+          '/day?date=YYYY-MM-DD':          'Single day lookup',
+          '/month?year=YYYY&month=M':      'Full month',
+          '/best?activity=X&from=Y&to=Z':              'Best days for an activity in a date range',
+          '/best?activity=X&from=Y&to=Z&weekend=false': 'Same, excluding Saturdays and Sundays',
+        },
+        activities: Object.keys(ACTIVITY_MAP),
+        note: 'Use /today?timezone=Area/City for timezone-aware current-day lookup, or pass a local date explicitly to /day.',
+      });
+    default:
+      return json({ error: 'not found' }, 404);
+  }
+}
+
 export default {
   async fetch(request) {
-    const url  = new URL(request.url);
-    const path = url.pathname.replace(/\/$/, '') || '/';
-
-    if (request.method === 'OPTIONS')
-      return new Response(null, { headers: CORS });
-
-    switch (path) {
-      case '/day':   return handleDay(url.searchParams);
-      case '/month': return handleMonth(url.searchParams);
-      case '/best':  return handleBest(url.searchParams);
-      case '/':
-        return json({
-          name: 'Auspice',
-          description: 'Fengshui calendar API - 2026',
-          endpoints: {
-            '/day?date=YYYY-MM-DD':          'Single day lookup',
-            '/month?year=YYYY&month=M':      'Full month',
-            '/best?activity=X&from=Y&to=Z':              'Best days for an activity in a date range',
-            '/best?activity=X&from=Y&to=Z&weekend=false': 'Same, excluding Saturdays and Sundays',
-          },
-          activities: Object.keys(ACTIVITY_MAP),
-          note: 'Pass the caller\'s local date explicitly — the API has no concept of "today".',
-        });
-      default:
-        return json({ error: 'not found' }, 404);
-    }
+    return handleRequest(request);
   },
 };
